@@ -42,3 +42,8 @@ This project is made for learning and practice purposes.
 ---
 
 ## Project Structure
+Rock_Paper_Scissors/
+│
+├── main.py
+├── about.txt
+└── README.md
