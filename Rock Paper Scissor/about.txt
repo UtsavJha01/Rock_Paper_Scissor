@@ -1,0 +1,27 @@
+Rock Paper Scissors Game
+-----------------------
+
+Created by: Utsav Kumar Jha
+Language  : Python
+
+About the Project:
+------------------
+This is a simple Rock Paper Scissors game created using Python.
+The project is made to practice basic programming concepts like
+if-elif-else statements, functions, loops, and the random module.
+
+In this game, the user plays against the computer.
+The user selects rock, paper, or scissors.
+The computer randomly chooses one option.
+Based on the rules, the winner of each round is decided.
+
+Rules of the Game:
+------------------
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
+
+The game also keeps track of the score and allows the user
+to play multiple rounds until they choose to exit.
+
+This project is beginner-friendly and easy to understand.
